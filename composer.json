@@ -1,7 +1,7 @@
 {
     "name": "didrive/libs",
     "description": "библиотеки js css для didrive",
-    "version": "0.3.0",
+    "version": "0.4.0",
     
     "keywords": [
         "didrive", "module", "nyos", "uralweb.info"
